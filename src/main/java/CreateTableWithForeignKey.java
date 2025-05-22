@@ -82,6 +82,8 @@ public class CreateTableWithForeignKey {
          *       where the id is of type SERIAL PRIMARY KEY, post is of type varchar(255), and user_fk is of type
          *       int.
          *
+         * NOTE: Do not change anything in this code. You should write your sql statement on a single line (do not use multi-line formatting) in the problem1.sql file.
+         *
          * Note: The post column will hold the text content of the post and the user_fk column will be a foreign key to
          * the site_user table's id column.
          */
